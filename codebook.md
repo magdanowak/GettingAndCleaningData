@@ -35,28 +35,28 @@ The original data consisted of 561 columns with different measurements for the f
 The following variables were provided:
 
 * time domain signals
-** 3-axial signals
-*** tBodyAcc: body acceleration 
-*** tGravityAcc: gravity acceleration
-*** tBodyAccJerk: body acceleration jerk
-*** tBodyGyro: gyroscope acceleration
-*** tBodyGyroJerk: body gyroscope jerk
-** magnitude of signals
-*** tBodyAccMag
-*** tGravityAccMag
-*** tBodyAccJerkMag
-*** tBodyGyroMag
-*** tBodyGyroJerkMag
+  * 3-axial signals
+    * tBodyAcc: body acceleration 
+    * tGravityAcc: gravity acceleration
+    * tBodyAccJerk: body acceleration jerk
+    * tBodyGyro: gyroscope acceleration
+    * tBodyGyroJerk: body gyroscope jerk
+  * magnitude of signals
+    * tBodyAccMag
+    * tGravityAccMag
+    * tBodyAccJerkMag
+    * tBodyGyroMag
+    * tBodyGyroJerkMag
 * frequency domain signals
-** 3-axial signals 
-*** fBodyAcc
-*** fBodyAccJerk
-*** fBodyGyro
-** magnitude of signals
-*** fBodyAccMag
-*** fBodyAccJerkMag
-*** fBodyGyroMag
-*** fBodyGyroJerkMag
+  * 3-axial signals 
+    * fBodyAcc
+    * fBodyAccJerk
+    * fBodyGyro
+  * magnitude of signals
+    * fBodyAccMag
+    * fBodyAccJerkMag
+    * fBodyGyroMag
+    * fBodyGyroJerkMag
 
 Prefix 't' denotes time measurements. Prefix 'f' denotes frequency measurements. 
 
