@@ -16,7 +16,7 @@ The dataset includes results from 30 subjects performing 6 activities while wear
 
 We merged training and test data provided, and calculated average values of chosen variables for each subject and activity. 
 
-== Variables
+## Variables
 
 There are 68 variables in the data set:
 
@@ -36,11 +36,11 @@ The following variables were provided:
 
 * time domain signals
   * 3-axial signals
-    * tBodyAcc: body acceleration 
-    * tGravityAcc: gravity acceleration
-    * tBodyAccJerk: body acceleration jerk
-    * tBodyGyro: gyroscope acceleration
-    * tBodyGyroJerk: body gyroscope jerk
+    * tBodyAcc
+    * tGravityAcc
+    * tBodyAccJerk
+    * tBodyGyro
+    * tBodyGyroJerk
   * magnitude of signals
     * tBodyAccMag
     * tGravityAccMag
